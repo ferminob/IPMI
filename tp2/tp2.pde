@@ -1,6 +1,6 @@
 //Fermin Oberti 119102/7
 //Comision 5
-//para mas placer escuchar con: https://youtu.be/zfRSmjkerME?si=t2TB76tmlVzrzReU
+//https://youtu.be/zfRSmjkerME?si=t2TB76tmlVzrzReU
 int tiempo, pantalla;
 int posx, posy, posx2, posy2;
 int a;
